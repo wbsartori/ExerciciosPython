@@ -1,0 +1,1 @@
+Comparação: https://wiki.python.org.br/EstruturaDeDecisao no mínimo 8 exercícios

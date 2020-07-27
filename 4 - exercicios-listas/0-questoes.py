@@ -1,0 +1,1 @@
+#Listas: https://wiki.python.org.br/ExerciciosListas no mínimo 10 exercícios
